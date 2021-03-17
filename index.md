@@ -7,3 +7,7 @@ Get started by reading [[README]]#.
 Other pages on this zettelkasten:
 
 - [[faq]]#
+
+[[z:zettels?tag=blog/**&timeline]]
+
+[[z:zettels?tag=micro/**&timeline]]
