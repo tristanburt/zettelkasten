@@ -10,4 +10,6 @@ Other pages on this zettelkasten:
 
 [[z:zettels?tag=blog/**&timeline]]
 
+## Recent microposts from [[microblog]]
+
 [[z:zettels?tag=micro/**&timeline]]
